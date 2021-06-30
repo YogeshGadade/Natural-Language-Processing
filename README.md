@@ -1,29 +1,11 @@
-# Natural-Language-Processing
-Implementation of Natural Language Processing
+On this repository I am going to upload work exploring different tools, techniques and concepts in the field of Natural Language processing can be used in data science projects.
 
-# Optical-Character-Recognition
-## Using Google Vision API in Python
-  Please refer following files:
-  1. Input images: English sample 2, hindi sample 3, ML model development and deployment
-  2. Code file: Google_vision_OCR.ipynb
-  
-  For more details please refer the explaination: 
-  https://limitlessdatascience.wordpress.com/2019/09/19/vision-api-detect-handwriting-ocr-python-code-implementation/
-## Using Tesseract in Python
-  Please refer following files:
-  1. English sample 2, NoisyImage.png, hindi sample with different fonts.png
-  2. Examples_using_tesseract3_OCR.ipynb
-  3. Examples_using_tesseract4_OCR.ipynb
-  4. techniques_to_Improve_Accuracy_of_the_tesseract2.ipynb
-  5. For tilted image containing a text to be read we can correct the angle and then read the text using tessract for more accuracy for this please refer this code file: End_to_end_Auto_Image_tilt_angle_detection_and_correction.ipynb and input file: DemoImage.png  
-  6. For automatic cropping of white border refer this link: https://github.com/Yogeshnaik1190/Pre-processing
+# Natural-Language-Processing Content
 
-  For more details please refer the explaination: 
-  1. https://limitlessdatascience.wordpress.com/2019/07/31/tesseract-3-0-and-4-0-implementation-and-output-comparison/
-  2. https://limitlessdatascience.wordpress.com/2019/08/22/automatic-image-tilt-detection-using-canny-edge-and-hough-lines-and-correction/
+# Exploring Optical-Character-Recognition
+1. Exploring **Google Vision API** in Python for English and local language OCR from images 
+2. Exploring **Tesseract** (versions 2, 3, 4) in Python for English and local language OCR from images 
+3. Exploring Tesseract performance improvement: input image preprocessing techniques
 
-
-# Sentiment Analysis using Google Language API
-  Please refer following files:
-  1. Sentiment_analysis_using_google_language_API.ipynb
-  2. GoogleSentimentScoreCategories.png
+# Exploring Sentiment Analysis 
+  1. Exploring Google Language API.
