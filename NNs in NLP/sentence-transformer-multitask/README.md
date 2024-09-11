@@ -20,15 +20,14 @@ The code is written in Python using the Hugging Face `transformers` library and 
    ```bash
    git clone https://github.com/yourusername/sentence-transformer-multitask.git
 
-2. Install the dependencies:
+2. **Install the dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
- ```bash
- pip install -r requirements.txt
-
-3. Open the Jupyter Notebook: You can open the notebook locally or upload it to Google Colab:
+3. **Open the Jupyter Notebook:** You can open the notebook locally or upload it to Google Colab:
 - To run locally:
-```bash
-jupyter notebook Sentence_Transformer_MultiTask.ipynb
+   ```bash
+   Sentence_Transformer_MultiTask.ipynb
 
 - To run in Google Colab:
 - Open Google Colab (https://colab.research.google.com/).
